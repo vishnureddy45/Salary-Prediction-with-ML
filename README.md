@@ -8,5 +8,6 @@ To predict salary using machine learning, we need to identify patterns in the da
 This dataset contains just two columns:
 
 Job Experience
+
 Salary
 
